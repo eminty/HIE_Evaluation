@@ -1,0 +1,13 @@
+Package: ApPhenotypeEvaluation
+Type: Package
+Title: Evaluates Acute Pancreatitis Phenotype Definitions
+Version: 0.0.1
+Author: James Weaver, Joel Swerdel, Gowtham Rao
+Maintainer: James Weaver <jweave17@its.jnj.com>
+Description: Comprehensively characterizes cohorts of acute pancreatitis patients
+    defined by 5 phenotype algorithms. Validates the 5 algorithms against a
+    probabilistic reference standard.
+License: Apache License 2.0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
